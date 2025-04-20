@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Punit chalwa</h1>
+<h1 align="center">Hi 👋, I'm Punit chawla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [punitchawla.online](punitchawla.online)
